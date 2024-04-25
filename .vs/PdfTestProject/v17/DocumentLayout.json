@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Centennial Software Engineering Technology\\Semester 4\\DEVOPS\\comp367-mohan-lab1\\PdfTestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4650087-1397-4F82-B4E8-03AE02050E64}|PdfTestProject\\PdfTestProject.csproj|e:\\centennial software engineering technology\\semester 4\\devops\\comp367-mohan-lab1\\pdftestproject\\pdftestproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4650087-1397-4F82-B4E8-03AE02050E64}|PdfTestProject\\PdfTestProject.csproj|solutionrelative:pdftestproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Centennial Software Engineering Technology\\Semester 4\\DEVOPS\\comp367-mohan-lab1\\PdfTestProject\\PdfTestProject\\Program.cs",
+              "RelativeDocumentMoniker": "PdfTestProject\\Program.cs",
+              "ToolTip": "E:\\Centennial Software Engineering Technology\\Semester 4\\DEVOPS\\comp367-mohan-lab1\\PdfTestProject\\PdfTestProject\\Program.cs",
+              "RelativeToolTip": "PdfTestProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T22:01:07.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
