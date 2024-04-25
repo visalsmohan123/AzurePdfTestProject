@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Centennial Software Engineering Technology\\Semester 4\\DEVOPS\\comp367-mohan-lab1\\PdfTestProject\\PdfTestProject\\PdfTestProject.csproj": {}
+    "E:\\Centennial Software Engineering Technology\\PdfTestProject\\PdfTestProject\\PdfTestProject.csproj": {}
   },
   "projects": {
-    "E:\\Centennial Software Engineering Technology\\Semester 4\\DEVOPS\\comp367-mohan-lab1\\PdfTestProject\\PdfTestProject\\PdfTestProject.csproj": {
+    "E:\\Centennial Software Engineering Technology\\PdfTestProject\\PdfTestProject\\PdfTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Centennial Software Engineering Technology\\Semester 4\\DEVOPS\\comp367-mohan-lab1\\PdfTestProject\\PdfTestProject\\PdfTestProject.csproj",
+        "projectUniqueName": "E:\\Centennial Software Engineering Technology\\PdfTestProject\\PdfTestProject\\PdfTestProject.csproj",
         "projectName": "PdfTestProject",
-        "projectPath": "E:\\Centennial Software Engineering Technology\\Semester 4\\DEVOPS\\comp367-mohan-lab1\\PdfTestProject\\PdfTestProject\\PdfTestProject.csproj",
+        "projectPath": "E:\\Centennial Software Engineering Technology\\PdfTestProject\\PdfTestProject\\PdfTestProject.csproj",
         "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-        "outputPath": "E:\\Centennial Software Engineering Technology\\Semester 4\\DEVOPS\\comp367-mohan-lab1\\PdfTestProject\\PdfTestProject\\obj\\",
+        "outputPath": "E:\\Centennial Software Engineering Technology\\PdfTestProject\\PdfTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "ceTe.DynamicPDF.HtmlConverter.NET": {
+              "target": "Package",
+              "version": "[1.16.0, )"
             }
           },
           "imports": [

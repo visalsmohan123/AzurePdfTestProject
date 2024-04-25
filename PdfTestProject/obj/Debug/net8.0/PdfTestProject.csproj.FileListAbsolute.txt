@@ -31,3 +31,37 @@ E:\Centennial Software Engineering Technology\Semester 4\DEVOPS\comp367-mohan-la
 E:\Centennial Software Engineering Technology\Semester 4\DEVOPS\comp367-mohan-lab1\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.pdb
 E:\Centennial Software Engineering Technology\Semester 4\DEVOPS\comp367-mohan-lab1\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.genruntimeconfig.cache
 E:\Centennial Software Engineering Technology\Semester 4\DEVOPS\comp367-mohan-lab1\PdfTestProject\PdfTestProject\obj\Debug\net8.0\ref\PdfTestProject.dll
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.csproj.AssemblyReference.cache
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.AssemblyInfoInputs.cache
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.AssemblyInfo.cs
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.csproj.CoreCompileInputs.cache
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.MvcApplicationPartsAssemblyInfo.cs
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.MvcApplicationPartsAssemblyInfo.cache
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.sourcelink.json
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.dll
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\refint\PdfTestProject.dll
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.pdb
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\bin\Debug\net8.0\appsettings.Development.json
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\bin\Debug\net8.0\appsettings.json
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\bin\Debug\net8.0\PdfTestProject.exe
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\bin\Debug\net8.0\PdfTestProject.deps.json
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\bin\Debug\net8.0\PdfTestProject.runtimeconfig.json
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\bin\Debug\net8.0\PdfTestProject.dll
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\bin\Debug\net8.0\PdfTestProject.pdb
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\bin\Debug\net8.0\DynamicPDF.HTMLConverter.dll
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\staticwebassets.build.json
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\staticwebassets.development.json
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\staticwebassets\msbuild.PdfTestProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\staticwebassets\msbuild.build.PdfTestProject.props
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PdfTestProject.props
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PdfTestProject.props
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\scopedcss\bundle\PdfTestProject.styles.css
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestP.A7B3E356.Up2Date
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\PdfTestProject.genruntimeconfig.cache
+E:\Centennial Software Engineering Technology\PdfTestProject\PdfTestProject\obj\Debug\net8.0\ref\PdfTestProject.dll
